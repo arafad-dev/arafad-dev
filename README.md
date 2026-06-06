@@ -33,7 +33,7 @@ Waxaan ku takhasusay dhismaha web applications, backend systems, databases, iyo 
 ## 📊 Quick Stats
 | Projects Completed | Technologies Mastered | Months of Experience |
 | :---: | :---: | :---: |
-| 4+  | 15+  | 3+
+| 4+  | 15+  | 6+
 
 ---
 
